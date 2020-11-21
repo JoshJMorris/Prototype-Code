@@ -7,8 +7,8 @@ public class playerController : MonoBehaviour
 {
     private string v = "Vertical";
     private string h = "Horizontal";
-    private float vSpeed = 3f;
-    private float HSpeed = 10f;
+    private float vSpeed = 2f;
+    private float HSpeed = 2f;
     // Start is called before the first frame update
     void Start()
     {
